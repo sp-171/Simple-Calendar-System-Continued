@@ -1,5 +1,7 @@
 # ENSC251-LAB2-Simple-Calendar-System-Continued
-This program is a continuation of lab1.
+This program is a continuation of the Simple Calendar System. A second repository was created as both projects were part of separate labs.
+
+
 This is also a simple calendar system, where one can book, query, and delete appointments. 
 
 The program runs on the following assumptions:
